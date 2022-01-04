@@ -5,11 +5,11 @@ const mysql = require("mysql");
 const cors = require("cors");
 
 var db = mysql.createConnection({
-    host:'34.123.7.32',
-    port:"3306",
-    user: 'root',
-    password:'56kig4f6OAOFr9m6',
-    database:'pt1',
+    host:'**.***.*.**',
+    port:"****",
+    user: '*****',
+    password:'***********',
+    database:'***',
 })
 
 app.use(cors());
